@@ -1,5 +1,6 @@
-function [ p ] = params( )
-%UNTITLED2 Summary of this function goes here
+function [ p ] = model_params( )
+% This function sets up the necessary model parameters and output them 
+% in a structure p.
 %   Detailed explanation goes here
 
 p = struct();
